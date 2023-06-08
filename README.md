@@ -53,8 +53,10 @@ This is a web based application developed for health related based website in in
 
 **Tech Stack:**
 
-> Java Script 
+> JavaScript 
 
-> HTML 
+> CSS 
 
-> CSS
+> HTML
+
+> Python
