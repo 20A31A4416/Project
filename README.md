@@ -6,8 +6,9 @@ This is a web based application developed for health related based website in in
 
 ### This web based health application has been developed for the accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime and Github. 
 
-**Azure Services Used for this Project**
-> Static Web Apps 
+**Azure Services Used for this Project:** 
+> Static Web Apps
+ 
 > Health Bot 
 
 
@@ -18,7 +19,7 @@ This is a web based application developed for health related based website in in
 
 
 
-### Screenshots 
+### Screenshots: 
 
 ![Screenshot 2023-06-08 205942](https://github.com/20A31A4416/Project/assets/135610010/8eeb8f79-3c79-467e-95ad-8ae4a4417dd1)
 
@@ -26,7 +27,7 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot 2023-06-08 211132](https://github.com/20A31A4416/Project/assets/135610010/fb14d269-f9f5-4402-bb3c-feb5dfe506e1)
 
-Backend Pictures:
+**Backend Pictures:**
 
 ![Screenshot 2023-06-08 210542](https://github.com/20A31A4416/Project/assets/135610010/4b65f6f5-bb00-40d9-9040-7f69ce8626a2)
 
