@@ -51,3 +51,10 @@ This is a web based application developed for health related based website in in
 
 ![Picsart_23-06-08_21-51-12-966](https://github.com/20A31A4416/Project/assets/135610010/38e64389-3bdb-4899-8301-2a0ef5ff4dd7)
 
+**Tech Stack:**
+
+> Java Script 
+
+> HTML 
+
+> CSS
