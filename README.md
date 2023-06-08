@@ -27,7 +27,7 @@ Booking Appointment:
 
 ![Screenshot 2023-06-08 210050](https://github.com/20A31A4416/Project/assets/135610010/7cad0e1e-2f06-43d8-9992-5cb429713a3a)
 
-Health Bot:
+**Health Bot:**
 
 ![Screenshot 2023-06-08 211132](https://github.com/20A31A4416/Project/assets/135610010/fb14d269-f9f5-4402-bb3c-feb5dfe506e1)
 
@@ -45,7 +45,7 @@ Health Bot:
 
 ![Screenshot 2023-06-08 214105](https://github.com/20A31A4416/Project/assets/135610010/7f231b0b-f8a4-4b68-9289-c56ce7a259cd)
 
-Moblie App:
+**Moblie App:**
 
 ![Picsart_23-06-08_21-51-12-966](https://github.com/20A31A4416/Project/assets/135610010/38e64389-3bdb-4899-8301-2a0ef5ff4dd7)
 
