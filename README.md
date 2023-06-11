@@ -16,8 +16,42 @@ This is a web based application developed for health related based website in in
 
 **Project demo video link** : 
 
+### Features:
+- ✨ **Patient Managemen**: Allows hospitals to maintain detailed patient records, including personal information, medical history, diagnosis, and treatment details.
+- 💰 **Billing and Invoicing**: Facilitates accurate billing and invoicing processes, including generating invoices, tracking payments, and managing outstanding balances.
+- 👨‍⚕️ **Staff Salary Management**: Enables hospitals to manage staff salaries, including salary calculation, deductions, and generating salary slips.
+- 🌐 **Dynamic Webpage Management**: Provides a user-friendly portal for hospitals to update their webpage content in real-time. Hospitals can modify images, links, and respond to appointments booked by patients.
+- 🔒 **Secure Login**: Implements a secure login system to ensure only authorized personnel can access the software's features and functionalities.
 
+## Usage
 
+### Dynamic Webpage Management Portal
+The dynamic webpage management portal allows hospitals to keep their website content up to date. It provides an easy-to-use interface for making changes and responding to patient appointments.
+
+To access the portal, follow these steps:
+1. Go to https://20a31a4416.github.io/Project/ in your web browser.
+2. Once navigated, you can see update images, links, and respond to patient appointments from the frontend.
+
+### Admin Panel
+The admin panel provides a comprehensive interface for managing patient records, billing, and staff salaries. It offers efficient tools to streamline administrative tasks in hospitals.
+
+To access the admin panel, follow these steps:
+1. Go to https://gg5.b62.mywebsitetransfer.com/medico/  in your web browser.
+2. Use the following login credentials:
+   - 📞 Phone Number: 9999999999
+   - 🔑 Password: 123
+3. Once logged in, you can manage patient records, handle billing and invoicing, and handle staff salary management efficiently.
+
+## Requirements
+To use the Hospital Management Software, ensure that you have the following prerequisites:
+- 🌐 Internet connection
+- 🌐 Web browser (recommended: Google Chrome, Mozilla Firefox)
+
+## Support
+As it is an open software there is no maintenance or support provided kindly modify the code accourding to your usecase.
+
+## License
+This software is open for evenyone. Credits _Lokesh, Kousalya, Kavya, Shree_.
 
 ### Screenshots: 
 
