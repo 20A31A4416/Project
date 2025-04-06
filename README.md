@@ -17,7 +17,7 @@ This is a web based application developed for health related based website in in
 **Project demo video link** : https://youtu.be/AzOgVEOaoc4
 
 ### Features:
-- ✨ **Patient Managemen**: Allows hospitals to maintain detailed patient records, including personal information, medical history, diagnosis, and treatment details.
+- ✨ **Patient Management**: Allows hospitals to maintain detailed patient records, including personal information, medical history, diagnosis, and treatment details.
 - 💰 **Billing and Invoicing**: Facilitates accurate billing and invoicing processes, including generating invoices, tracking payments, and managing outstanding balances.
 - 👨‍⚕️ **Staff Salary Management**: Enables hospitals to manage staff salaries, including salary calculation, deductions, and generating salary slips.
 - 🌐 **Dynamic Webpage Management**: Provides a user-friendly portal for hospitals to update their webpage content in real-time. Hospitals can modify images, links, and respond to appointments booked by patients.
